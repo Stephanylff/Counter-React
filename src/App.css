@@ -4,7 +4,7 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: linear-gradient(135deg, #a1c4fd, #c2e9fb);
+  background: linear-gradient(135deg, #ffc6e9, #c2e9fb, #001f2e  );
   font-family: 'Arial', sans-serif;
 }
 
@@ -32,9 +32,9 @@
   border-radius: 10px;
   border: none;
   font-size: 1rem;
-  cursor: pointer;
+  cursor: pointer;cd C:\Users\user\Documents\meu-projeto  # ou o caminho da sua pasta
   transition: all 0.2s ease;
-  background-color: #4caf50;
+  background-color: #5841f0;
   color: white;
 }
 
